@@ -11,4 +11,4 @@
 ### How to install:
 - Git clone this repository
 - For each algorithm, run all cells in the corresponding notebook if you want to start the training process.
-- In case you only need the run the cells with utils functions and the evaluation cells to get the solution from each algorithm, and visualize the video in ./videos folders.
+- In case you want to see the final result, you only need the run the cells with utils functions and the evaluation cells to get the solution from each algorithm, and visualize the video in ./videos folders.
